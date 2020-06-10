@@ -18,6 +18,10 @@ import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Projections;
 
+/**
+ * @author lhy
+ * @version 1.0 2020/4/5
+ */
 public class CrawlerApplication {
 
   public static void main(String[] args) {
